@@ -1,0 +1,22 @@
+{
+  "name": "algorithmpractice",
+  "version": "1.0.0",
+  "description": "Just a place to practice common algorithms",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greggolas/AlgorithmPractice.git"
+  },
+  "author": "Greggolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greggolas/AlgorithmPractice/issues"
+  },
+  "homepage": "https://github.com/Greggolas/AlgorithmPractice#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.3",
+    "jest": "^29.3.1"
+  }
+}
