@@ -1,4 +1,4 @@
-const BinarySearchTree = require("../lib/binarySearchTree");
+const { BinarySearchTree } = require("../lib/binarySearchTree");
 
 const consoleSpy = jest.spyOn(console, "log").mockImplementation();
 

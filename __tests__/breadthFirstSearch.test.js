@@ -1,5 +1,5 @@
 const breadthFirstSearch = require("../lib/breadthFirstSearch");
-const BinarySearchTree = require("../lib/binarySearchTree");
+const { BinarySearchTree } = require("../lib/binarySearchTree");
 
 describe("breadthFirstSearch", () => {
     const bst = new BinarySearchTree()
